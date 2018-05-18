@@ -1,6 +1,6 @@
 package CodingChallengeEasy;
 
-import Review.TreeNode;
+import laioffer.inClass.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
