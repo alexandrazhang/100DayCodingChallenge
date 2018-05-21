@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 public class Day4LC665 {
     public boolean checkPossibility(int[] nums) {

@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 public class Day8LC191 {
     public int hammingWeight(int n) {

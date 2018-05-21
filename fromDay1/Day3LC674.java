@@ -1,4 +1,4 @@
-package CodingChallengeEasy;
+package CodingChallengeEasy.fromDay1;
 
 public class Day3LC674 {
     public int findLengthOfLCIS(int[] nums) {

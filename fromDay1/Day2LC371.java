@@ -1,4 +1,4 @@
-package CodingChallengeEasy;
+package CodingChallengeEasy.fromDay1;
 
 public class Day2LC371 {
     public int getSum(int a, int b) {

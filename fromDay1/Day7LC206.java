@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 import laioffer.laicode.ListNode;
 

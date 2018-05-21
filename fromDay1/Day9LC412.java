@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 public class Day10LC202 {
     public boolean isHappy(int n) {

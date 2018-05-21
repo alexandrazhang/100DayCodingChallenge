@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 public class Day6LC657 {
     public boolean judgeCircle(String moves) {

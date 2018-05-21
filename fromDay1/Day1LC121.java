@@ -1,4 +1,4 @@
-package CodingChallengeEasy;
+package CodingChallengeEasy.fromDay1;
 
 public class Day1LC121 {
     public int maxProfit(int[] prices) {

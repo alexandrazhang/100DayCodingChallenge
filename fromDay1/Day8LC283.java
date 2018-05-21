@@ -1,4 +1,4 @@
-package CodingChallengeEasy.FromDay4;
+package CodingChallengeEasy.fromDay1;
 
 public class Day8LC283 {
     public void moveZeroes(int[] nums) {

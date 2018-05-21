@@ -1,4 +1,4 @@
-package CodingChallengeEasy;
+package CodingChallengeEasy.fromDay1;
 
 /**
  * Created by yzhang on 5/4/18.
