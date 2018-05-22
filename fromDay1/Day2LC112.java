@@ -2,9 +2,6 @@ package CodingChallengeEasy.fromDay1;
 
 import laioffer.inClass.TreeNode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by yzhang on 5/3/18.
  */
