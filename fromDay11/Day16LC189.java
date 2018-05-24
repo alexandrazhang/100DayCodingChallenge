@@ -1,4 +1,4 @@
-package CodingPractice.src.DayChallengeEasy;
+package CodingChallengeEasy.fromDay11;
 
 /**
  * Created by yzhang on 5/23/18.

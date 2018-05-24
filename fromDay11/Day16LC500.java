@@ -1,4 +1,4 @@
-package CodingPractice.src.DayChallengeEasy;
+package CodingChallengeEasy.fromDay11;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;

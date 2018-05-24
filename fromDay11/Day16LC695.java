@@ -1,4 +1,4 @@
-package CodingPractice.src.DayChallengeEasy;
+package CodingChallengeEasy.fromDay11;
 
 /**
  * Created by yzhang on 5/23/18.
@@ -12,7 +12,7 @@ public class Day16LC695 {
                 int curMax = 0;
                 if(grid[i][j] == 1){
                     curMax++;
-                    if(hasNeighber(grid, i, j){
+                    if(hasNeighber(grid, i, j)){
                         max = Math.max(max, curMax);
                     }
                 } else {
